@@ -1,8 +1,10 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "http://becky.gallery/"
+copyright = "&copy; 2017 Rebecca Smith"
 languageCode = "en-us"
 title = "Becky Smith"
 theme = "hugo-artists-theme"
+publishDir = "docs"
 
 [params]
 
