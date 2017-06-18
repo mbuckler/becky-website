@@ -45,7 +45,7 @@ publishDir = "docs"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "Becky is passionate about **proofs** and **paints**, **group theory** and **graphite**. Seeing both abstract and emotional beauty allows her to capture the world around her in a unique and captivating way. She loves teaching math and art at [The Alternative School for Math and Sciences](http://www.tasms.com/Home/Home)."
+		bio = "Becky is passionate about **proofs** and **paints**, **group theory** and **graphite**. Seeing both abstract and emotional beauty allows her to capture the world around her in a unique and captivating way. She loves teaching math and art at [The Alternative School for Math and Science](http://www.tasms.com/Home/Home)."
 
 		[[params.about.skills]]
 			name = "Graphite"
