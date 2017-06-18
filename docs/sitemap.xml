@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://becky.gallery/work/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>http://becky.gallery/work/current_work/</loc>
+  </url>
+  
+  <url>
     <loc>http://becky.gallery/work/other/</loc>
   </url>
   

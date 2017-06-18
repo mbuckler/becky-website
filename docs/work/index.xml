@@ -13,6 +13,24 @@
     
     <item>
       <title></title>
+      <link>http://becky.gallery/work/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://becky.gallery/work/archive/</guid>
+      <description>These are pieces that I completed a long time ago, some as far back as high school!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://becky.gallery/work/current_work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://becky.gallery/work/current_work/</guid>
+      <description>These are works in progress, or recently completed works</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://becky.gallery/work/other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
