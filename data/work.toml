@@ -3,9 +3,10 @@ title = "Work"
 
 [[projects]]
     name = "Current Work"
-    folder = "Current_Work"
+    folder = "current_work"
 
 
 [[projects]]
     name = "Archive"
-    folder = "Archive"
+    folder = "archive"
+
