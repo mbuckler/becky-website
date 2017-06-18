@@ -2,10 +2,10 @@
 title = "Work"
 
 [[projects]]
-    name = "Portraits"
-    folder = "portraits"
+    name = "Current Work"
+    folder = "Current_Work"
 
 
 [[projects]]
-    name = "Other"
-    folder = "other"
+    name = "Archive"
+    folder = "Archive"

@@ -21,5 +21,4 @@ These are pieces that I completed a long time ago, some as far back as high scho
 ![Archive](img/work/Archive/29.jpeg)
 ![Archive](img/work/Archive/32.jpeg)
 ![Archive](img/work/Archive/33.jpeg)
-![Archive](img/work/Archive/34.jpeg)
 
