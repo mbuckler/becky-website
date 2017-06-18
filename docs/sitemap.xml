@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.org/work/other/</loc>
+    <loc>http://becky.gallery/work/other/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/work/portraits/</loc>
+    <loc>http://becky.gallery/work/portraits/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>http://becky.gallery/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://becky.gallery/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://becky.gallery/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/work/</loc>
+    <loc>http://becky.gallery/work/</loc>
     <priority>0</priority>
   </url>
   
