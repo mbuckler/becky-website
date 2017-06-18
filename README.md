@@ -8,8 +8,13 @@ To view the website go to [http://becky.gallery](http://becky.gallery)!
 
 ## How to add new pictures
 
-You can add new pictures in `becky-website/static/img/work/`. Putting
-each section in its own folder will help keep things organized.
+1) Make a new folder for a new work category. This directory's name must
+be lower case, and in `becky-website/static/img/work/`. 
+
+2) Copy in your image files into the directory you just made.
+
+3) Copy one of the images and rename the copy to `thumb.jpg`. This will
+be the thumbnail displayed on the main page.
 
 ## How to add a new work (art) category
 
@@ -21,6 +26,15 @@ images with the following format:
 
     `![Portraits](img/work/portraits/image_name.jpg)`
 
+3) Edit the work section description file
+(becky-website/data/work.toml). Add a section for your new work section.
+
+    ```
+    [[projects]]                                                             
+        name = "Portraits"                                                
+        folder = "portraits"
+    ```
+
 ## How to update the website after making changes
 
 1) If you haven't yet, install Hugo
@@ -29,35 +43,38 @@ images with the following format:
 
 2) Change to the `becky-website` directory
 
-2) Rebuild your website with Hugo
+3) Rebuild your website with Hugo
 
     `> hugo`
 
-
-3) Add your changed files with git
+4) Add your changed files with git
 
     Any image files you changed:
 
-    `> git add becky-website/static/img/work/portraits`
+    `> git add static/img/work/portraits`
 
     Any category files you changed:
 
-    `> git add becky-website/content/work/portraits.md`
+    `> git add content/work/portraits.md`
+
+    The work description if you changed it:
+
+    `> git add data/work.toml`
 
     The files containing your rebuilt website:
 
     `> git add docs/`
 
-4) Commit your changes
+5) Commit your changes
 
     `> git commit`
 
-5) Fill out the commit form (describe what you changed). If you are
+6) Fill out the commit form (describe what you changed). If you are
 using Emacs as your text editor: type in your message, exit with
 `ctrl-X`, hit `Y` to say yes to exiting and saving, and finally
 finish by pressing `Enter`.
 
-6) Push your changes to both the github repo and the web!
+7) Push your changes to both the github repo and the web!
 
     `git push`
 
@@ -67,3 +84,11 @@ Bash on Windows doesn't allow you to make new files with Windows in the
 directories associated with Bash. To make new files in Windows and then
 transfer them to Bash, copy them from Windows to a Bash directory with
 Bash. Windows files can be found in Bash within /mnt/c.
+
+## List of things that might be worth changing
+
+1) Each work section as a separate page might ease viewing
+
+2) New "artist" symbols by user image
+
+3) Remove or change icon at top and bottom of page
