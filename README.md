@@ -60,3 +60,10 @@ finish by pressing `Enter`.
 6) Push your changes to both the github repo and the web!
 
     `git push`
+
+## If you are using Bash on Windows
+
+Bash on Windows doesn't allow you to make new files with Windows in the
+directories associated with Bash. To make new files in Windows and then
+transfer them to Bash, copy them from Windows to a Bash directory with
+Bash. Windows files can be found in Bash within /mnt/c.
