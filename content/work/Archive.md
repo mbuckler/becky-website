@@ -19,6 +19,5 @@ These are pieces that I completed a long time ago, some as far back as high scho
 ![Archive](img/work/archive/17.jpg)
 ![Archive](img/work/archive/18.jpg)
 ![Archive](img/work/archive/29.jpg)
-![Archive](img/work/archive/32.jpg)
 ![Archive](img/work/archive/33.jpg)
 
